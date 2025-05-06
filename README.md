@@ -6,19 +6,10 @@
 
 # Active-Directory-Highlights
 
-
-
-➜ Handled permissions and access requests, including adding users to Active Directory groups and granting admin access for process audits, ensuring proper access controls and security.
-
-➜ Handled password resets and account unlocks for network and identity management, maintaining user access and endpoint protection.
-
-➜ Provided admin access and role assignments in Active Directory for new employees and specific requests, ensuring proper access control.
-
-➜ Updated permissions and access for users, including admin access requests and Active Directory group memberships, to maintain security and efficiency.
-
-
-➜ Administered group policies, user account controls, and organizational units (OUs) within Active Directory for access management.
-
+➜ Handled permissions and access requests, including admin access and group assignments, to ensure proper role-based access control.  
+➜ Managed password resets and account unlocks to maintain secure and uninterrupted user access across systems.  
+➜ Provided administrative access and role assignments in Active Directory for new employees and special access requests.  
+➜ Administered group policies, user account controls, and organizational units (OUs) to support structured access management and compliance.
 
 
 
