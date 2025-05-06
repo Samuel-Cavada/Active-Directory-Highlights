@@ -17,7 +17,7 @@
 ➜ Updated permissions and access for users, including admin access requests and Active Directory group memberships, to maintain security and efficiency.
 
 
-
+➜ Administered group policies, user account controls, and organizational units (OUs) within Active Directory for access management.
 
 
 
